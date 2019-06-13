@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
   }
 })
 
-export default class ProgressBar extends React.Component {
+export default class RNWidoProgressBar extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
